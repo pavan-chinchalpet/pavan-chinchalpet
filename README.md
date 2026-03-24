@@ -59,14 +59,6 @@ This is my **official professional GitHub account** focused on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-chinchalpet&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 ## 🌐 Professional Contact
 
 📧 Email: pavanchinchalpet@gmail.com  
