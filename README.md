@@ -7,7 +7,7 @@ Official Professional GitHub Account
 
 ---
 
-## 🏢 About This Account
+## About This Account
 
 This is my **official professional GitHub account** focused on:
 
@@ -17,15 +17,15 @@ This is my **official professional GitHub account** focused on:
 - Performance optimization  
 - Real-time IoT dashboards  
 
-🔗 **Personal GitHub Account (Learning & Experiments):**  
-👉 https://github.com/pavanchinchalpet  
+**Personal GitHub Account (Learning & Experiments):**  
+https://github.com/pavanchinchalpet  
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Full Stack Web Developer**  
-📅 2024 – Present  
+ 2024 – Present  
 
 - Architected and deployed LMS platform serving **500+ active users**
 - Optimized application performance from **3.75s → 0.5s**
@@ -35,7 +35,7 @@ This is my **official professional GitHub account** focused on:
 
 ---
 
-## 🛠 Core Technology Stack
+## Core Technology Stack
 
 ### Frontend
 - React.js  
@@ -59,7 +59,7 @@ This is my **official professional GitHub account** focused on:
 
 ---
 
-## 🌐 Professional Contact
+## Professional Contact
 
 📧 Email: pavanchinchalpet@gmail.com  
 🌍 Portfolio: https://portfolio-pavanchinchalpet.vercel.app  
@@ -67,7 +67,7 @@ This is my **official professional GitHub account** focused on:
 
 ---
 
-⚡ Actively building scalable systems since 2024.
+ Actively building scalable systems since 2024.
 
 <!--
 **pavan-chinchalpet/pavan-chinchalpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
